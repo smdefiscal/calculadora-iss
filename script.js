@@ -1,543 +1,129 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=utf-8" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="script.js.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Thiago</o:Author><o:LastAuthor>Professor Thiago Paiva</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>2</o:Pages></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >1046-12.2.0.23196</o:KSOProductBuildVer><o:ICV dt:dt="string" >83ACDD53C1A143BD850C2BF6789A32CE_13</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Web</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:DoNotExpandShiftReturn/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><![endif]--><style>
-@font-face{
-font-family:"Times New Roman";
-}
+let dadosRelatorio = null;
+const DATA_CORTE = new Date(2024, 0, 1); // 01/01/2024
 
-@font-face{
-font-family:"宋体";
-}
+// Máscara de Data Automática
+document.getElementById('data_alvara').addEventListener('input', function(e) {
+    let v = e.target.value.replace(/\D/g, '');
+    if (v.length > 8) v = v.slice(0, 8);
+    if (v.length >= 5) {
+        v = v.replace(/^(\d{2})(\d{2})(\d{0,4}).*/, "$1/$2/$3");
+    } else if (v.length >= 3) {
+        v = v.replace(/^(\d{2})(\d{0,2}).*/, "$1/$2");
+    }
+    e.target.value = v;
+});
 
-@font-face{
-font-family:"Calibri";
-}
+// Lógica do campo de Nota Fiscal
+document.getElementsByName('nf_radio').forEach(radio => {
+    radio.addEventListener('change', (e) => {
+        const inputNf = document.getElementById('valor_nf');
+        inputNf.disabled = e.target.value === 'n';
+        if (inputNf.disabled) inputNf.value = '';
+    });
+});
 
-@font-face{
-font-family:"SimSun";
-}
+document.getElementById('btnCalcular').addEventListener('click', () => {
+    try {
+        const nome = document.getElementById('nome').value.trim();
+        const dataStr = document.getElementById('data_alvara').value;
+        const [dia, mes, ano] = dataStr.split('/').map(Number);
+        const dataAlvara = new Date(ano, mes - 1, dia);
+        const houveAlteracao = document.getElementById('alteracao').checked;
 
-@font-face{
-font-family:"Symbol";
-}
+        if (!nome) throw "Informe o nome do contribuinte.";
+        if (dataStr.length < 10 || isNaN(dataAlvara.getTime())) throw "Data inválida. Use DD/MM/AAAA.";
+        if (dataAlvara > new Date()) throw "A data não pode ser futura.";
 
-p.MsoNormal{
-mso-style-name:Normal;
-mso-style-parent:"";
-margin:0pt;
-margin-bottom:.0001pt;
-font-family:Calibri;
-mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';
-}
+        // Regra de Isenção
+        if (dataAlvara < DATA_CORTE && !houveAlteracao) {
+            alert("ISENTO: Alvará aprovado antes de 01/01/2024 e sem alteração posterior.");
+            dadosRelatorio = null;
+            document.getElementById('btnPdf').disabled = true;
+            return;
+        }
 
-span.10{
-font-family:Calibri;
-}
+        const vCub = parseFloat(document.getElementById('cub').value);
+        const vMetragem = parseFloat(document.getElementById('metragem').value);
+        const apresentaNf = document.querySelector('input[name="nf_radio"]:checked').value === 's';
 
-span.msoIns{
-mso-style-type:export-only;
-mso-style-name:"";
-text-decoration:underline;
-text-underline:single;
-color:blue;
-}
+        if (!vCub || !vMetragem || vCub <= 0 || vMetragem <= 0) throw "Valores de CUB e Metragem devem ser preenchidos.";
 
-span.msoDel{
-mso-style-type:export-only;
-mso-style-name:"";
-text-decoration:line-through;
-color:red;
-}
+        let totalNf = 0, valorAbatido = 0, baseCalculo = 0;
 
-table.MsoNormalTable{
-mso-style-name:"Tabela normal";
-mso-style-parent:"";
-mso-style-noshow:yes;
-mso-tstyle-rowband-size:0;
-mso-tstyle-colband-size:0;
-mso-padding-alt:0,0000pt 5,4000pt 0,0000pt 5,4000pt;
-mso-para-margin:0pt;
-mso-para-margin-bottom:.0001pt;
-mso-pagination:widow-orphan;
-font-family:'Times New Roman';
-font-size:10,0000pt;
-mso-ansi-language:#0400;
-mso-fareast-language:#0400;
-mso-bidi-language:#0400;
-}
-@page{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}@page Section0{
-margin-top:72,0000pt;
-margin-bottom:72,0000pt;
-margin-left:90,0000pt;
-margin-right:90,0000pt;
-size:595,3000pt 841,9000pt;
-layout-grid:18,0000pt;
-mso-header-margin:36,0000pt;
-mso-footer-margin:36,0000pt;
-}
-div.Section0{page:Section0;}</style></head><body style="tab-interval:35pt;" ><!--StartFragment--><div class="Section0"  style="layout-grid:18,0000pt;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >let dadosRelatorio = null;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >const DATA_CORTE = new Date(2024, 0, 1); // 01/01/2024</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >// M&#225;scara de Data</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >document.getElementById('data_alvara').addEventListener('input', function(e) {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;let x = e.target.value.replace(/\D/g, '').match(/(\d{0,2})(\d{0,2})(\d{0,4})/);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;e.target.value = !x[2] ? x[1] : x[1] + '/' + x[2] + (x[3] ? '/' + x[3] : '');</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >// Habilitar/Desabilitar campo NF</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >document.getElementsByName('nf_radio').forEach(radio =&gt; {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;radio.addEventListener('change', (e) =&gt; {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const inputNf = document.getElementById('valor_nf');</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inputNf.disabled = e.target.value === 'n';</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (inputNf.disabled) inputNf.value = '';</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >document.getElementById('btnCalcular').addEventListener('click', () =&gt; {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;try {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const nome = document.getElementById('nome').value.trim();</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const dataStr = document.getElementById('data_alvara').value;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const [dia, mes, ano] = dataStr.split('/').map(Number);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const dataAlvara = new Date(ano, mes - 1, dia);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const houveAlteracao = document.getElementById('alteracao').checked;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (!nome) throw "Informe o nome do contribuinte.";</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (isNaN(dataAlvara.getTime())) throw "Data inv&#225;lida.";</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (dataAlvara &gt; new Date()) throw "A data n&#227;o pode ser futura.";</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Regra de Isen&#231;&#227;o</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (dataAlvara &lt; DATA_CORTE && !houveAlteracao) {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("Isento do ISS de Constru&#231;&#227;o: Alvar&#225; anterior a 2024 sem altera&#231;&#227;o.");</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const vCub = parseFloat(document.getElementById('cub').value);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const vMetragem = parseFloat(document.getElementById('metragem').value);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const apresentaNf = document.querySelector('input[name="nf_radio"]:checked').value === 's';</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (!vCub || !vMetragem || vCub &lt;= 0 || vMetragem &lt;= 0) throw "Valores de CUB e Metragem devem ser positivos.";</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;let totalNf = 0, valorAbatido = 0, baseCalculo = 0;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (apresentaNf) {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;totalNf = (vCub * 0.2) * vMetragem;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;valorAbatido = parseFloat(document.getElementById('valor_nf').value) || 0;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (valorAbatido &gt; totalNf) {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("N&#227;o haver&#225; cobran&#231;a de imposto (Abatimento maior que o limite).");</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;baseCalculo = totalNf - valorAbatido;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} else {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;baseCalculo = (vCub * 0.30) * vMetragem;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;const iss = baseCalculo * 0.03;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dadosRelatorio = {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data_relatorio: new Date().toLocaleDateString('pt-BR'),</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nome,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data_alvara: dataStr,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v_cub: vCub,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metragem: vMetragem,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total_nf: totalNf,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abatido: valorAbatido,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iss: iss</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;};</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("C&#225;lculo realizado com sucesso!");</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;document.getElementById('btnPdf').disabled = false;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;} catch (err) {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert("Erro: " + err);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >document.getElementById('btnPdf').addEventListener('click', () =&gt; {</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;const { jsPDF } = window.jspdf;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;const doc = new jsPDF();</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.setFontSize(16);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.text("PREFEITURA MUNICIPAL", 105, 20, { align: "center" });</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.setFontSize(10);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.text("Secretaria Municipal de Obras", 105, 28, { align: "center" });</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.setFontSize(12);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.text("RELAT&#211;RIO DE ISS - CONSTRU&#199;&#195;O CIVIL", 14, 45);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;const rows = [</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Data do Relat&#243;rio", dadosRelatorio.data_relatorio],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Contribuinte", dadosRelatorio.nome],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Data do Alvar&#225;", dadosRelatorio.data_alvara],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Valor do CUB", `R$ ${dadosRelatorio.v_cub.toFixed(2)}`],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Metragem (m&#178;)", `${dadosRelatorio.metragem.toFixed(2)}`],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Total Nota Fiscal", `R$ ${dadosRelatorio.total_nf.toFixed(2)}`],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["Valor Abatido", `R$ ${dadosRelatorio.abatido.toFixed(2)}`],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["ISS Devido (3%)", `R$ ${dadosRelatorio.iss.toFixed(2)}`],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;];</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.autoTable({</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;startY: 50,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;head: [['Campo', 'Informa&#231;&#227;o']],</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;body: rows,</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;theme: 'grid',</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;headStyles: { fillColor: [200, 200, 200], textColor: [0, 0, 0] }</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.setFontSize(9);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.text("Documento gerado automaticamente pelo Sistema Municipal de ISS.", 14, doc.lastAutoTable.finalY + 10);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >&nbsp;&nbsp;&nbsp;&nbsp;doc.save(`Relatorio_ISS_${dadosRelatorio.nome}.pdf`);</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" >});</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
-mso-bidi-font-family:'Times New Roman';" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+        if (apresentaNf) {
+            totalNf = (vCub * 0.2) * vMetragem;
+            valorAbatido = parseFloat(document.getElementById('valor_nf').value) || 0;
+            if (valorAbatido > totalNf) {
+                alert("O valor abatido excede o limite (20% do CUB x Metragem). Não haverá imposto.");
+                return;
+            }
+            baseCalculo = totalNf - valorAbatido;
+        } else {
+            baseCalculo = (vCub * 0.30) * vMetragem;
+        }
+
+        const iss = baseCalculo * 0.03;
+
+        dadosRelatorio = {
+            data_relatorio: new Date().toLocaleDateString('pt-BR'),
+            nome,
+            data_alvara: dataStr,
+            v_cub: vCub,
+            metragem: vMetragem,
+            total_nf: totalNf,
+            abatido: valorAbatido,
+            iss: iss
+        };
+
+        alert("Cálculo realizado! Você já pode exportar o PDF.");
+        document.getElementById('btnPdf').disabled = false;
+
+    } catch (err) {
+        alert(err);
+    }
+});
+
+document.getElementById('btnPdf').addEventListener('click', () => {
+    if (!dadosRelatorio) return;
+
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+
+    // Cabeçalho
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(14);
+    doc.text("PREFEITURA MUNICIPAL", 105, 20, { align: "center" });
+    doc.setFontSize(10);
+    doc.setFont("helvetica", "normal");
+    doc.text("Secretaria Municipal de Obras", 105, 26, { align: "center" });
+    
+    doc.setFontSize(12);
+    doc.setFont("helvetica", "bold");
+    doc.text("RELATÓRIO DE ISS - CONSTRUÇÃO CIVIL", 14, 40);
+
+    // Tabela
+    const rows = [
+        ["Data do Relatório", dadosRelatorio.data_relatorio],
+        ["Contribuinte", dadosRelatorio.nome],
+        ["Data do Alvará", dadosRelatorio.data_alvara],
+        ["Valor do CUB", `R$ ${dadosRelatorio.v_cub.toLocaleString('pt-BR', {minimumFractionDigits: 2})}`],
+        ["Metragem (m²)", `${dadosRelatorio.metragem.toFixed(2)} m²`],
+        ["Limite p/ Abatimento", `R$ ${dadosRelatorio.total_nf.toLocaleString('pt-BR', {minimumFractionDigits: 2})}`],
+        ["Valor Abatido", `R$ ${dadosRelatorio.abatido.toLocaleString('pt-BR', {minimumFractionDigits: 2})}`],
+        ["ISS Devido (3%)", `R$ ${dadosRelatorio.iss.toLocaleString('pt-BR', {minimumFractionDigits: 2})}`],
+    ];
+
+    doc.autoTable({
+        startY: 45,
+        head: [['Descrição', 'Valor']],
+        body: rows,
+        theme: 'striped',
+        headStyles: { fillColor: [46, 139, 87] }
+    });
+
+    doc.setFontSize(8);
+    doc.setTextColor(100);
+    doc.text("Documento gerado eletronicamente pelo Sistema de ISS.", 14, doc.lastAutoTable.finalY + 10);
+
+    doc.save(`ISS_${dadosRelatorio.nome.replace(/\s+/g, '_')}.pdf`);
+});
